@@ -1,10 +1,10 @@
 # SimonGame
 
-![image](https://github.com/iamkamalkumar17/SimonGame/assets/88319916/939797e3-b2b6-4a86-98a3-eea2c9e8295c)
+![screenshot](https://github.com/iamkamalkumar17/SimonGame/assets/88319916/939797e3-b2b6-4a86-98a3-eea2c9e8295c)
 
 ## Demo
 
-[Link to live demo](https://iamkamalkumar17.github.io/SimonGame/)
+[Link to play: ](https://iamkamalkumar17.github.io/SimonGame/)
 
 ## Features
 
@@ -15,7 +15,7 @@
 
 ## How to Play
 
-1. Visit the [live demo link](https://your-demo-link-here.com).
+1. Visit the [live demo](https://your-demo-link-here.com).
 2. Press any button to begin the game.
 3. Watch the pattern shown on the colored buttons.
 4. Repeat the pattern by clicking the buttons in the same order.
