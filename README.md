@@ -15,7 +15,7 @@
 
 ## How to Play
 
-1. Visit the [live demo](https://your-demo-link-here.com).
+1. Visit the [live demo](https://iamkamalkumar17.github.io/SimonGame/).
 2. Press any button to begin the game.
 3. Watch the pattern shown on the colored buttons.
 4. Repeat the pattern by clicking the buttons in the same order.
